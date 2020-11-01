@@ -1,0 +1,28 @@
+.btn__additem {
+    display: flex;
+    margin: 10px auto;
+    width: 150px;
+    height: 45px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 30px;
+    border-color: #000;
+    outline: none;
+    box-shadow: none;
+    background-color: #fff;
+
+}
+
+.btn__additem:hover {
+    background-color: black;
+    color: #fff;
+}
+
+.item__add-form {
+    align-items: center;
+}
+
+.item__add-form input {
+    margin-right: 10px;
+    height: 30px;
+}
